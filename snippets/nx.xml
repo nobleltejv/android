@@ -7,8 +7,6 @@
 
 	<!-- Application-Sources -->
 	<project path="packages/apps/TheNexus" name="TeamNexus/android_packages_apps_TheNexus" revision="nx-7.1" />
-	<project path="packages/apps/TheNexus/libs/material-dialogs" name="afollestad/material-dialogs" revision="master" />
-	<project path="packages/apps/TheNexus/libs/MaterialProgressBar" name="DreaminginCodeZH/MaterialProgressBar" revision="master" />
 	<project path="packages/apps/FDroidPrivilegedExtension" name="fdroid/privileged-extension.git" remote="gitlab" revision="refs/tags/0.2.5" />
 
 	<!-- Substratum -->
