@@ -386,7 +386,7 @@
   <project path="hardware/qcom/keymaster" name="platform/hardware/qcom/keymaster" groups="qcom,qcom_keymaster,pdk" remote="aosp" />
   <project path="hardware/qcom/media" name="platform/hardware/qcom/media" groups="qcom,pdk" remote="aosp" />
   <project path="hardware/qcom/wlan" name="platform/hardware/qcom/wlan" groups="qcom_wlan,pdk" remote="aosp" />
-  <project path="hardware/ril" name="TeamNexus/android_hardware_ril" revision="nx-8.0" groups="pdk" />
+  <project path="hardware/ril" name="LineageOS/android_hardware_ril" groups="pdk" />
   <project path="kernel/tests" name="kernel/tests" remote="aosp" />
   <project path="libcore" name="platform/libcore" groups="pdk" remote="aosp" />
   <project path="libnativehelper" name="platform/libnativehelper" groups="pdk" remote="aosp" />
